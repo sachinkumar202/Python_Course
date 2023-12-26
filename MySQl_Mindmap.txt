@@ -1,0 +1,71 @@
+MySQL Mind Map: Understanding the Database
+
+1. Introduction to MySQL
+   - Definition
+   - History
+
+2. Database Basics
+   - Tables
+   - Records
+   - Fields
+
+3. MySQL Architecture
+   - Client-Server Model
+   - Components (Server, SQL Interpreter, Storage Engine)
+
+4. Data Types
+   - Numeric Types
+   - String Types
+   - Date and Time Types
+
+5. SQL Basics
+   - SELECT, INSERT, UPDATE, DELETE
+   - Joins (INNER, LEFT, RIGHT)
+   - GROUP BY and HAVING
+
+6. Constraints
+   - PRIMARY KEY
+   - FOREIGN KEY
+   - UNIQUE
+   - NOT NULL
+
+7. Indexes
+   - Importance
+   - Types (B-Tree, Hash, Full-text)
+
+8. Normalization
+   - First Normal Form (1NF)
+   - Second Normal Form (2NF)
+   - Third Normal Form (3NF)
+
+9. Stored Procedures and Functions
+   - Creating
+   - Executing
+
+10. Transactions
+    - ACID Properties
+    - COMMIT and ROLLBACK
+
+11. Security
+    - User Authentication
+    - Privileges and Roles
+
+12. Backup and Recovery
+    - mysqldump
+    - Point-in-time Recovery
+
+13. Optimization
+    - Query Optimization
+    - Index Optimization
+
+14. Advanced Topics
+    - Replication
+    - Sharding
+
+15. Tools and Utilities
+    - MySQL Workbench
+    - Command-Line Interface
+
+16. Community and Resources
+    - MySQL Documentation
+    - Forums and Communities
